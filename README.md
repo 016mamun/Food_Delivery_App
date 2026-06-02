@@ -1,8 +1,4 @@
 # Food_Delivery_App
-Flutter Project
->>>>>>> 9d65324a74413366428597c738d0280fae3bda70
-
-# Food_Delivery_App
 
 Flutter Food Delivery Application
 
@@ -19,8 +15,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-=======
-# Food_Delivery_App
-Flutter Project
->>>>>>> 9d65324a74413366428597c738d0280fae3bda70
