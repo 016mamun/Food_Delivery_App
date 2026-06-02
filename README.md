@@ -1,6 +1,21 @@
 # Food_Delivery_App
 
-Flutter Food Delivery Application
+Flutter Food Delivery Application with Clean Architecture
+
+## 🌐 Live Demo
+
+**Try the app now:** [https://food-delivery-app-zeta-murex.vercel.app/](https://food-delivery-app-zeta-murex.vercel.app/)
+
+## Features
+
+- 🍔 Multi-role support (Customer, Restaurant, Rider)
+- 📍 Address management with map picker
+- 🚀 Real-time order tracking
+- 🏛️ Clean Architecture with Riverpod
+- 🔥 Firebase integration (optional)
+- 💳 Multiple payment methods
+- 🛒 Shopping cart with checkout flow
+- 📊 Analytics for restaurants
 
 ## Getting Started
 
